@@ -6,11 +6,11 @@ A Python script for debugging Kafka consumers to get the offset of affected mess
 The error seems to come up when you have saturated your server's I/O.
 
 
-##How to run:
+## How to run:
 
 `python3 debugger.py`
 
-##Other
+## Other
 
 Helpful to debug Kafka issues from Java as well since the error output is slightly different (helps with subsequent Google searches)
 
